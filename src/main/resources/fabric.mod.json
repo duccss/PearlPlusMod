@@ -1,18 +1,18 @@
 {
 	"schemaVersion": 1,
-	"id": "zenithproxy",
+	"id": "pearlplus",
 	"version": "${version}",
-	"name": "ZenithProxy Mod",
-	"description": "ZenithProxy client integrations",
+	"name": "PearlPlus Mod",
+	"description": "PearlPlus client integrations",
 	"authors": [
-		"rfresh2"
+		"duccss, rfresh2"
 	],
 	"license": "MIT",
-	"icon": "assets/zenithproxy/icon.png",
+	"icon": "assets/pearlplus/pearlplus.png",
 	"environment": "*",
 	"entrypoints": {
 		"client": [
-			"com.zenith.ZenithProxyMod"
+			"com.zenith.PearlPlusMod"
 		]
 	},
 	"mixins": [
