@@ -16,7 +16,7 @@
 		]
 	},
 	"mixins": [
-		"zenithproxy.mixins.json"
+		"pearlplus.mixins.json"
 	],
 	"depends": {
       "fabricloader": ">=0.16.2",
