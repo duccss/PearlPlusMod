@@ -1,11 +1,11 @@
-package com.zenith.screen;
+package com.pearlplus.screen;
 
-import com.zenith.PearlPlusMod;
-import com.zenith.config.Config;
-import com.zenith.pearlplus.PearlPlusApi;
-import com.zenith.pearlplus.PearlPlusApiException;
-import com.zenith.pearlplus.model.PearlLoadResponse;
-import com.zenith.pearlplus.model.PearlStatusResponse;
+import com.pearlplus.PearlPlusMod;
+import com.pearlplus.config.Config;
+import com.pearlplus.pearlplus.PearlPlusApi;
+import com.pearlplus.pearlplus.PearlPlusApiException;
+import com.pearlplus.pearlplus.model.PearlLoadResponse;
+import com.pearlplus.pearlplus.model.PearlStatusResponse;
 import net.minecraft.client.Minecraft;
 import net.minecraft.client.gui.GuiGraphics;
 import net.minecraft.client.gui.components.Button;

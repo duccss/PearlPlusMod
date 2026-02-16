@@ -1,14 +1,14 @@
-package com.zenith.pearlplus;
+package com.pearlplus.pearlplus;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 import com.google.gson.JsonObject;
 import com.google.gson.JsonParser;
-import com.zenith.pearlplus.model.ApiErrorResponse;
-import com.zenith.pearlplus.model.PearlLoadRequest;
-import com.zenith.pearlplus.model.PearlLoadResponse;
-import com.zenith.pearlplus.model.PearlStatusRequest;
-import com.zenith.pearlplus.model.PearlStatusResponse;
+import com.pearlplus.pearlplus.model.ApiErrorResponse;
+import com.pearlplus.pearlplus.model.PearlLoadRequest;
+import com.pearlplus.pearlplus.model.PearlLoadResponse;
+import com.pearlplus.pearlplus.model.PearlStatusRequest;
+import com.pearlplus.pearlplus.model.PearlStatusResponse;
 import net.fabricmc.loader.api.FabricLoader;
 
 import java.io.IOException;

@@ -1,6 +1,6 @@
 {
   "required": true,
-  "package": "com.zenith.mixin",
+  "package": "com.pearlplus.mixin",
   "compatibilityLevel": "JAVA_21",
   "minVersion": "0.8",
   "injectors": {

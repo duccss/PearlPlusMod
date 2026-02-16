@@ -12,7 +12,7 @@
 	"environment": "*",
 	"entrypoints": {
 		"client": [
-			"com.zenith.PearlPlusMod"
+			"com.pearlplus.PearlPlusMod"
 		]
 	},
 	"mixins": [

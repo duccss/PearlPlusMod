@@ -1,4 +1,4 @@
-package com.zenith.pearlplus.model;
+package com.pearlplus.pearlplus.model;
 
 import com.google.gson.annotations.SerializedName;
 

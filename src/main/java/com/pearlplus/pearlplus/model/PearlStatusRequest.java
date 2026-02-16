@@ -1,4 +1,4 @@
-package com.zenith.pearlplus.model;
+package com.pearlplus.pearlplus.model;
 
 public record PearlStatusRequest(
     String playerName

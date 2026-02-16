@@ -1,6 +1,6 @@
-package com.zenith;
+package com.pearlplus;
 
-import com.zenith.config.Config;
+import com.pearlplus.config.Config;
 import net.fabricmc.api.ClientModInitializer;
 import net.minecraft.client.Minecraft;
 import org.slf4j.Logger;

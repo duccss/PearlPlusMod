@@ -1,7 +1,7 @@
-package com.zenith.screen;
+package com.pearlplus.screen;
 
-import com.zenith.PearlPlusMod;
-import com.zenith.config.Config;
+import com.pearlplus.PearlPlusMod;
+import com.pearlplus.config.Config;
 import net.minecraft.client.gui.GuiGraphics;
 import net.minecraft.client.gui.components.Button;
 import net.minecraft.client.gui.components.EditBox;

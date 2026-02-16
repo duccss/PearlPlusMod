@@ -1,4 +1,4 @@
-package com.zenith.config;
+package com.pearlplus.config;
 
 import com.google.common.io.Files;
 import com.google.gson.Gson;
@@ -11,7 +11,7 @@ import java.io.FileWriter;
 import java.nio.file.Path;
 import java.util.ArrayList;
 
-import static com.zenith.PearlPlusMod.LOG;
+import static com.pearlplus.PearlPlusMod.LOG;
 
 public class Config {
     public static final class PearlPlusEndpoint {

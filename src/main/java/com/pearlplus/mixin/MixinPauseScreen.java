@@ -1,7 +1,7 @@
-package com.zenith.mixin;
+package com.pearlplus.mixin;
 
 import com.llamalad7.mixinextras.sugar.Local;
-import com.zenith.screen.PearlPlusScreen;
+import com.pearlplus.screen.PearlPlusScreen;
 import net.minecraft.client.Minecraft;
 import net.minecraft.client.gui.components.Button;
 import net.minecraft.client.gui.layouts.GridLayout;
