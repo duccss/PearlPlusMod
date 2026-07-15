@@ -39,7 +39,7 @@ dependencies {
 	})
 	modImplementation("net.fabricmc:fabric-loader:${project.properties["loader_version"]}")
     modImplementation("net.fabricmc.fabric-api:fabric-api:${project.properties["fabric_version"]}")
-	modRuntimeOnly("maven.modrinth:modmenu:17.0.0")
+	modRuntimeOnly("maven.modrinth:modmenu:20.0.1")
 }
 
 tasks {
